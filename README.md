@@ -1,4 +1,4 @@
-## Unzip the KG_RAG.zip file: run_mcq_qa.py has the complete code implementation
+## Unzip the KG_RAG.zip file: run_mcq_qa.py has the complete code implementation and all the excel files (outputs) are inside the Outputs folder
 
 
 ## Instructions for the Assignment
