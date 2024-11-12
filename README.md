@@ -1,3 +1,6 @@
+## Unzip the KG_RAG.zip file: run_mcq_qa.py has the complete code implementation
+
+
 ## Instructions for the Assignment
 
 **1. Set up the environment following Steps 1-4 in the original README.**
